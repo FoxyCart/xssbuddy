@@ -1,0 +1,7 @@
+base   xssbuddy
+author Fred Alger
+email  fred.alger@foxycart.com
+date   2013-12-12
+name   XSS Buddy
+desc   Stop browser-side XSS auditor from blocking edits to wiki pages that contain code.
+url    https://github.com/FoxyCart/xssbuddy
